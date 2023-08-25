@@ -38,6 +38,10 @@ import {
       id: "contact",
       title: "Contact",
     },
+    {
+      id: "cv",
+      title: "CV",
+    },
   ];
   
   const services = [
@@ -46,7 +50,7 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "WordPress Developer",
       icon: mobile,
     },
     {
