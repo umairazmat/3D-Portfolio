@@ -16,9 +16,9 @@ import {
     figma,
     docker,
     meta,
-    starbucks,
-    tesla,
-    shopify,
+    QNAR,
+    SMIT,
+    QAMSOFT,
     carrent,
     jobit,
     tripguide,
@@ -122,8 +122,8 @@ import {
     {
       title: "WordPress Developer",
       company_name: "QNAR International",
-      icon: starbucks,
-      iconBg: "#383E56",
+      icon: QNAR,
+      iconBg: "#FFFF",
       date: "June 2022 - September 2022",
       points: [
         "Implemented a Notion-based ticketing system and created a tiered support system, reducing the average time to resolve technical issues from 2 days to 1 day and improving customer satisfaction.",
@@ -134,8 +134,8 @@ import {
     {
       title: "MERN Web Instructor",
       company_name: "Saylani Mass IT Training",
-      icon: tesla,
-      iconBg: "#E6DEDD",
+      icon: SMIT,
+      iconBg: "#FFFF",
       date: "May 2022 – March 2023",
       points: [
         "Develop and deliver lesson plans to 100+ students, resulting in a 90% course completion rate and a 75% job placement rate among graduates.",
@@ -147,15 +147,15 @@ import {
     {
       title: "Software Engineer Intern",
       company_name: "QAMSoft Technologies",
-      icon: shopify,
-      iconBg: "#383E56",
+      icon: QAMSOFT,
+      iconBg: "#FFFF",
       date: "March 2023 – Aug 2023",
       points: [
         "Involved in developing a robust and user-friendly Learning Management System (LMS) platform.",
         "Responsible for front-end and back-end development tasks using technologies such as AngularJS, ASP.NET Web API, .NET Framework, C#, HTML, CSS, Bootstrap, Tailwind CSS, GitHub, Node.js, and HTML.",
         "Collaborated with experienced software engineers, participating in code reviews, and demonstrating effective communication and teamwork.",
         "Applying principles of object-oriented programming (OOP) and layered architecture for scalable and maintainable code.",
-        "ontinuously improving full-stack development skills and contributing to the success of the LMS project.",
+        "Continuously improving full-stack development skills and contributing to the success of the LMS project.",
       ],
     },
   ];
