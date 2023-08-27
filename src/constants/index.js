@@ -50,7 +50,7 @@ import {
       icon: web,
     },
     {
-      title: "WordPress Developer",
+      title: "Frontend Developer",
       icon: mobile,
     },
     {
@@ -58,7 +58,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "WordPress Creator",
       icon: creator,
     },
   ];
