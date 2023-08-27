@@ -70,9 +70,7 @@ const ComputersCanvas = () => {
         <Computers isMobile={isMobile} />
       </Suspense>
 
-      <React.Fragment>
-        <Preload all />
-      </React.Fragment>
+      <Preload all />
     </Canvas>
   );
 };
